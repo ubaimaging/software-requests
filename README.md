@@ -1,4 +1,4 @@
-# software-requests
+# Software Requests
 
 This repository contains different modules requested for development to the Advanced Bioimaging Unit of the Institut Pasteur de Montevideo.
 
