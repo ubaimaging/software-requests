@@ -1,11 +1,11 @@
 """
 Convert .sdt files to .b64 file that can be opened with SimFCS software.
 
-To execute the script simply run this python code through IDE or by "python sdt2b63.py" in terminal/command prompt.
+To execute the script simply run this python code through IDE or by "python sdt2b64.py" in terminal/command prompt.
 It will pop-up a window asking if a file or folder will be processed and then another window to select the file/folder to be processed.
 After finishing convertion it will print "Finished converting". To process another file/folder, the script should be executed again. 
 
-Author: Bruno Pannunzio. Advanced Bioimagenology Unit, Institut Pasteur de Montevideo (2023)
+Author: Bruno Pannunzio. Advanced Bioimagenology Unit, Institut Pasteur de Montevideo (2023-2024)
 """
 
 import numpy
